@@ -1,0 +1,17 @@
+com.metricsplugin.metrics.brito.AttributeHidingFactor
+com.metricsplugin.metrics.brito.MethodHidingFactor
+com.metricsplugin.metrics.brito.MethodInheritanceFactor
+com.metricsplugin.metrics.brito.PolymorphismFactor
+com.metricsplugin.metrics.brito.CouplingFactor
+com.metricsplugin.metrics.genero.NAgg
+com.metricsplugin.metrics.genero.NAssoc
+com.metricsplugin.metrics.genero.NAssocXClasses
+com.metricsplugin.metrics.genero.NGen
+com.metricsplugin.metrics.marchesi.ClassDependencyAverage
+com.metricsplugin.metrics.marchesi.ClassDependencyStandardDesviation
+com.metricsplugin.metrics.marchesi.DepthInheritanceTree
+com.metricsplugin.metrics.marchesi.ImmediateSubClasses
+com.metricsplugin.metrics.marchesi.NumberHierarchiesRoots
+com.metricsplugin.metrics.marchesi.OverallNumberClass
+com.metricsplugin.metrics.ClassReport
+com.metricsplugin.metrics.mine.InterPackageClassCoupling

@@ -1,0 +1,11 @@
+
+1) Testes relacionados a acoplamento. Utilizar os exemplos do Martin Fowler, e mostrar que DI e IOC reduzem o acoplamento
+2) Testar melhor o polimorfismo factor.
+3) Reducing Coupling - Martin Fowler
+4) Implementar a outra métrica de acoplamento, que trabalha com classes.
+____________________________________________________________
+1) Evaluating the impact of Object-Oriented Design
+COUPLING FACTOR (MÉTRICA DE PASSAGEM DE MENSAGEM) – AVALIAR A IMPLEMENTAÇÃO PARA DIAGRAMAS DE SEQUÊNCIA.
+2) Lorenz and Kidd ´s metrics
+3) Number of Children
+4) Ler os artigos da pasta OOMETER.

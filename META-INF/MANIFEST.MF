@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Sealed: true
+Main-Class: com.metricsplugin.test.MainTest
+Class-Path: antlr-2.7.7.jar argouml-euml.jar argouml-mdr.jar argouml-m
+ odel.jar argouml.jar commons-logging-1.0.2.jar ext/anarres-cpp-no-dep
+ endencies-1.2.3.jar ext/antlr-2.7.7.jar ext/antlr-runtime-3.1.1.jar e
+ xt/argo_cpp.jar ext/argo_idl.jar ext/argo_java.jar ext/argo_php.jar e
+ xt/argouml-csharp.jar ext/argouml-diagrams-sequence.jar ext/argouml-i
+ 18n-de.jar ext/argouml-i18n-en_GB.jar ext/argouml-i18n-es.jar ext/arg
+ ouml-i18n-fr.jar ext/argouml-i18n-it.jar ext/argouml-i18n-nb.jar ext/
+ argouml-i18n-pt.jar ext/argouml-i18n-pt_BR.jar ext/argouml-i18n-ru.ja
+ r ext/argouml-i18n-zh.jar ext/argouml-sql.jar ext/argouml-umlproperty
+ panels.jar gef-0.13.1.jar java-interfaces.jar jmi.jar jmiutils.jar lo
+ g4j-1.2.6.jar mdrapi.jar mof.jar nbmdr.jar ocl-argo-1.1.jar openide-u
+ til.jar org.eclipse.emf.common_2.5.0.v200906151043.jar org.eclipse.em
+ f.ecore.change.edit_2.5.0.v200906151043.jar org.eclipse.emf.ecore.cha
+ nge_2.5.0.v200906151043.jar org.eclipse.emf.ecore.edit_2.5.0.v2009061
+ 51043.jar org.eclipse.emf.ecore.xmi_2.5.0.v200906151043.jar org.eclip
+ se.emf.ecore_2.5.0.v200906151043.jar org.eclipse.emf.edit_2.5.0.v2009
+ 06151043.jar org.eclipse.emf.mapping.ecore2xml_2.5.0.v200906151043.ja
+ r org.eclipse.emf.mapping.ecore_2.5.0.v200906151043.jar org.eclipse.e
+ mf.mapping_2.5.0.v200906151043.jar org.eclipse.uml2.common.edit_1.5.0
+ .v200905041045.jar org.eclipse.uml2.common_1.5.0.v200905041045.jar or
+ g.eclipse.uml2.uml.edit_3.0.0.v200905041045.jar org.eclipse.uml2.uml.
+ resources_3.0.0.v200906011111.jar org.eclipse.uml2.uml_3.0.1.v2009082
+ 81330.jar swidgets-0.1.4.jar toolbar-1.4.1-20071227.jar jcommon-1.0.16.jar jfreechart-1.0.13-experimental.jar jfreechart-1.0.13-swt.jar jfreechart-1.0.13.jar
